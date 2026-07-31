@@ -1,9 +1,9 @@
 import React from 'react';
 import ReactDOM from 'react-dom/client';
-import AdminDashboard from './App.jsx';
+import BlockPuzzlePrototype from './App.jsx';
 
 ReactDOM.createRoot(document.getElementById('root')).render(
   <React.StrictMode>
-    <AdminDashboard />
+    <BlockPuzzlePrototype />
   </React.StrictMode>
 );
